@@ -129,6 +129,6 @@ public class LifeCycleListenerImpl implements LifeCycleListener
   }
   
   public void test() {
-      
+      System.out.println("changes");
   }
 }
